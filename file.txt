@@ -1,0 +1,1 @@
+Test and Debug: Test the script thoroughly to ensure it performs the desired automation accurately. Verify that the inputs, outputs, and intermediate steps are correct. Debug any issues or unexpected behavior, adding necessary error handling and logging to aid troubleshooting
