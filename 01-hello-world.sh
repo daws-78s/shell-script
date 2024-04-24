@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello, I am learning DevOps"
+echo -e "An apple a day keeps away \a\t\tdoctor\n"
